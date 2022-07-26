@@ -1,0 +1,13 @@
+<TestGoogleApplication>
+
+
+    <applicationURL>https://techedtrainings.com/</applicationURL>
+    <applicationURL1>https://kubernetes.io//</applicationURL1>
+    <applicationURL2>https://www.docker.com/</applicationURL2>
+    <gmailLoginID>testuser001</gmailLoginID>
+    <gmailLoginPW>testPW001</gmailLoginPW>
+    <chromepath>C:/bin/chromedriver.exe</chromepath>
+
+
+
+</TestGoogleApplication>
