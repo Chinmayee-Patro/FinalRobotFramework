@@ -66,10 +66,7 @@ TestCase_0011
     [Tags]  Sanity
     Log To Console    Test Case11
 
-TestCase_0012
 
-    [Tags]  Dev
-    Log To Console    Test Case12
 
 *** Keywords ***
 
