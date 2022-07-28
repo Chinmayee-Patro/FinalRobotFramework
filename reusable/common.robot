@@ -2,7 +2,7 @@
 Library  SeleniumLibrary
 
 *** Variables ***
-${appurl}   https://the-internet.herokuapp.com/javascript_alerts
+${appurl}   https://www.arisglobal.com
 ${browser}  chrome
 
 
